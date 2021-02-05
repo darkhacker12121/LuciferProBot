@@ -1,15 +1,15 @@
 ##############################
 # Please edit this line to "lucifer_probot" to make the bot run
-lucifer_explain_config: Ahhhhhhhhhhh i am not blind so i'll follow what the line above me asked"
+lucifer_explain_config: lucifer_probot
 ##############################  
-bot_token: "YOUR BOT TOKEN HERE" 
-owner_id: "YOUR OWN ID HERE"  # If you dont know, run the bot and do /id in your private chat with it
-api_key: 'Get it from mytelegram.org'  #Owner API Key
-api_hash: 'Get it from mytelegram.org'  #API HASH
-owner_username:  "YOUR USERNAME HERE"  #Just write it with the @ ex "@Amazers_xD"
+bot_token: "1476880088:AAEI7-elLgZ2VH4qea16sgoUuHsaJN821Mo" 
+owner_id: "1131653685"  # If you dont know, run the bot and do /id in your private chat with it
+api_key: '1383845'  #Owner API Key
+api_hash: '0e3d2c299cc3c5cc26c283cecd2eb97c'  #API HASH
+owner_username:  "kavinduaj"  #Just write it with the @ ex "@Amazers_xD"
 donation_link: "" #paypal etc
-support_chat: "No Support Chat exists" # Your telegram support chat username, must have the "@" Example: @MyBotSupportGroupChat
-database_url: "sqldbtype://username:pw@hostname:port/db_name" # needed for any database modules
+support_chat: "@lkhitech # Your telegram support chat username, must have the "@" Example: @MyBotSupportGroupChat
+database_url: "postgresql://postgres:dkkaj0123456@postgresql/postgres" # needed for any database modules
 message_dump: "None" # needed to make sure 'save from' messages persist
 gban_dump: "None" #Channel ID here with the hyphen like -123456789
 load: []
