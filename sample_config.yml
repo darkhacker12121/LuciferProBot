@@ -1,6 +1,6 @@
 ##############################
 # Please edit this line to "lucifer_probot" to make the bot run
-lucifer_explain_config: lucifer_probot
+lucifer_explain_config:" lucifer_probot"
 ##############################  
 bot_token: "1476880088:AAEI7-elLgZ2VH4qea16sgoUuHsaJN821Mo" 
 owner_id: "1131653685"  # If you dont know, run the bot and do /id in your private chat with it
